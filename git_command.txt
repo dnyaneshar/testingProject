@@ -1,6 +1,6 @@
 Quit the file :
 
-1) :x
+1)quie the file force fully-  (:x)
 2) :wq
 3) quit file withoud saving - 
 	:q!
