@@ -5,6 +5,25 @@ Quit the file :
 3) quit file withoud saving - 
 	:q!
 
+*****************************************************
+4) check the status or track the changes :
+git status
+
+
+5) add the file into staging 
+git add *
+git add <file_name>
+
+6) add the commit msg:
+git commit -m "add some commit msg"
+
+7) push the changes 
+git push origin <branch_name>
+
+********************************************************
+
+8) rename the file:
+git mv <old_filename> <new_filename>
 
 
 
