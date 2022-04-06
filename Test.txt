@@ -1,11 +1,10 @@
+Quit the file :
 
-helo htis is test file
+1) :x
+2) :wq
+3) quit file withoud saving - 
+	:q!
 
-I am very happy to addjingthis new statement
 
-this is adding new text:q
-
-
-thsi sis the way of doiung things
 
 
