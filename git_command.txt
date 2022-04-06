@@ -25,5 +25,6 @@ git push origin <branch_name>
 8) rename the file:
 git mv <old_filename> <new_filename>
 
+9) make directory ( mkdir <dir_name>)
 
 
