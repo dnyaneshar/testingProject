@@ -29,22 +29,4 @@ git mv <old_filename> <new_filename>
 
 10) delete local branch :
 checkout master and do git fetch to get the details of recent create branch names
-git branch -d <branch_name>10) delete local branch :
-checkout master and do git fetch to get the details of recent create branch names
-git branch -d <branch_name>10) delete local branch :
-checkout master and do git fetch to get the details of recent create branch names
-git branch -d <branch_name>10) delete local branch :
-checkout master and do git fetch to get the details of recent create branch names
-git branch -d <branch_name>10) delete local branch :
-checkout master and do git fetch to get the details of recent create branch names
-git branch -d <branch_name>10) delete local branch :
-checkout master and do git fetch to get the details of recent create branch names
-git branch -d <branch_name>10) delete local branch :
-checkout master and do git fetch to get the details of recent create branch names
-git branch -d <branch_name>10) delete local branch :
-checkout master and do git fetch to get the details of recent create branch names
-git branch -d <branch_name>10) delete local branch :
-checkout master and do git fetch to get the details of recent create branch names
-git branch -d <branch_name>10) delete local branch :
-checkout master and do git fetch to get the details of recent create branch names
 git branch -d <branch_name>
